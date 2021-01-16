@@ -1,0 +1,1 @@
+# test-branch-rename-detection
